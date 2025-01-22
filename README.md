@@ -1,3 +1,5 @@
+This repository is forked from https://github.com/toddlcook/UMAP-star-gal-separation
+
 # UMAP star/gal separation
  
 ### Introduction
